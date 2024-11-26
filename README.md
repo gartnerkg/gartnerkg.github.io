@@ -1,0 +1,1 @@
+# gartnerkg.github.io
