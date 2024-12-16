@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #ffcd33;
+		background-color: red;
 		background-image: url("https://gartnerkg.github.io/test/assets/css/images/overlay.png"), -moz-linear-gradient(45deg, #ffcd44 15%, #ffcd33 85%);
 		background-image: url("https://gartnerkg.github.io/test/assets/css/images/overlay.png"), -webkit-linear-gradient(45deg, #ffcd44 15%, #ffcd33 85%);
 		background-image: url("https://gartnerkg.github.io/test/assets/css/images/overlay.png"), -ms-linear-gradient(45deg, #ffcd44 15%, #ffcd33 85%);
@@ -117,10 +117,10 @@ input, select, textarea {
 			transition: none !important;
 		}
 
-/* Type */
+/* Type - orig #ffcd33 */
 
 	body {
-		background-color: #ffcd33;
+		background-color: red;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
